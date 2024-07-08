@@ -1,2 +1,18 @@
-# Sorting-Visualizer
-Developed an interactive web application that visually demonstrates the step-by-step process of various sorting algorithms. This educational tool helps users understand the mechanics of different sorting techniques through real-time, animated visualizations.
+## Usage
+1. Open the application in your web browser.
+2. Select a sorting algorithm from the available options.
+3. Choose to input a custom array or generate a random one.
+4. Adjust the visualization speed if desired.
+5. Click 'Start' to begin the visualization.
+6. Use the step-by-step controls for a more detailed walkthrough.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+Your Name - [your.email@example.com](mailto:your.email@example.com)
+
+Project Link: [https://github.com/yourusername/sorting-visualizer](https://github.com/princemsd007/Sorting-Visualizer/)
