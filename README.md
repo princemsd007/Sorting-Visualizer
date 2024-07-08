@@ -12,7 +12,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+
 
 Project Link: [https://github.com/yourusername/sorting-visualizer](https://github.com/princemsd007/Sorting-Visualizer/)
