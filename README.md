@@ -14,4 +14,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 
-Project Link: [https://github.com/yourusername/sorting-visualizer](https://github.com/princemsd007/Sorting-Visualizer/)
+
